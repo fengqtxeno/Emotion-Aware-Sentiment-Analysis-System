@@ -55,5 +55,3 @@ Advanced sentiment analysis system with social and emotional awareness capabilit
 - PyQt5 graphical interface (no browser required)
 - English language support for all text processing
 
-## 📜 License
-MIT License
